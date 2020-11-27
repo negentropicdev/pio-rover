@@ -1,0 +1,22 @@
+{
+    "name": "Negentropic Base",
+    "keywords": "avr, rover, robot, atmel",
+    "description": "Common functionality intended for avr-based mobile robotics and related firmware.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/negentropicdev/pio-rover.git"
+    },
+    "license": "MIT",
+    "version": "0.1.0",
+    "authors": {
+      "name": "Derrick Bommarito",
+      "email": "negentropicdev@gmail.com"
+    },
+    "exclude": [
+      ".github",
+      "extras"
+    ],
+    "frameworks": "*",
+    "platforms": "atmelavr",
+    "libArchive": false
+  }
